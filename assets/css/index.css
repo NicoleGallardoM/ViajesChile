@@ -1,0 +1,13 @@
+.fondo-black{
+    background-color: black;
+}
+.fuente-quienes{
+    font-family: 'Fira Sans', sans-serif;
+}
+.footer{
+    padding-left:165px;
+    padding-right:200px;
+}
+html {
+    scroll-behavior: smooth;
+  }
